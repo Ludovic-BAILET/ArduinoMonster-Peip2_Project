@@ -11,4 +11,5 @@ Menu start : https://www.youtube.com/watch?v=KVSvTBRTXBI
 Apprentissage d'attaque : https://www.youtube.com/watch?v=aJoKhxXAnPg                                                                     
 Evolution acceptée : https://www.youtube.com/watch?v=Ixf9dOEppA4                                                                           
 Evolution refusée : https://www.youtube.com/watch?v=t6iRCS5Srp8                                                                           
-Echange fonctionnel : https://www.youtube.com/watch?v=jodbtTBfSEw&feature=youtu.be                                                  Musique overworld : https://www.youtube.com/watch?v=rmwjuu97IyM&feature=youtu.be
+Echange fonctionnel : https://www.youtube.com/watch?v=jodbtTBfSEw&feature=youtu.be
+Musique overworld : https://www.youtube.com/watch?v=rmwjuu97IyM&feature=youtu.be
