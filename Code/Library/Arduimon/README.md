@@ -1,4 +1,4 @@
-# PeiP2 Arduimon Monster (~Arduimon~) Library [![Build Status](https://github.com/quentinemusee/ArduinoMonster-Peip2_Project)](https://github.com/quentinemusee/ArduinoMonster-Peip2_Project)
+# PeiP2 Arduimon Monster (*Arduimon*) Library [![Build Status](https://github.com/quentinemusee/ArduinoMonster-Peip2_Project)](https://github.com/quentinemusee/ArduinoMonster-Peip2_Project)
 
 This is a library for the Arduimon Arduino console game:
  
