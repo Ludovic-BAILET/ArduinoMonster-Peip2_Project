@@ -1,0 +1,67 @@
+#######################################
+# Syntax Coloring Map For Arduimon
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Arduimon	KEYWORD1	Arduimon
+ArduimonGame	KEYWORD1	ArduimonGame
+ArduimonConsole	KEYWORD1	ArduimonConsole
+ArduinoGame	KEYWORD1	ArduinoGame
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Object	KEYWORD2
+Item	KEYWORD2
+PNJ	KEYWORD2
+Statut	KEYWORD2
+Move	KEYWORD2
+Type	KEYWORD2
+Arduimon	KEYWORD2
+Equipe	KEYWORD2
+Battle	KEYWORD2
+Wild	KEYWORD2
+Trainer	KEYWORD2
+Move	KEYWORD2
+MultiBattling	KEYWORD2
+Movement	KEYWORD2
+Map	KEYWORD2
+Catch	KEYWORD2
+Heal	KEYWORD2
+Trade	KEYWORD2
+Save	KEYWORD2
+Load	KEYWORD2
+Menu	KEYWORD2
+Pointer	KEYWORD2
+BattlePhase	KEYWORD2
+Draw	KEYWORD2
+SD	KEYWORD2
+SDDraw	KEYWORD2
+LCDTFTConverter	KEYWORD2
+BluetoothTrade	KEYWORD2
+Switch	KEYWORD2
+NewArduimon	KEYWORD2
+Senketsu	KEYWORD2
+ChangeMap	KEYWORD2
+CchangeCollision	KEYWORD2
+AddItemOnMap	KEYWORD2
+AddPNJOnMap	KEYWORD2
+FunTogether	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+BluetoothSerial	LITERAL1
+Unknown	LITERAL1
+LinkON	LITERAL1
+LinkOFF	LITERAL1
+BluetoothHardwareStatus	LITERAL1
+BluetoothNoHardware	LITERAL1
+BluetoothW5100	LITERAL1
+BluetoothW5200	LITERAL1
+BluetoothW5500	LITERAL1
